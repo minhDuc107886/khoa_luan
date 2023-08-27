@@ -6,7 +6,7 @@
 
  """
 
-import tensorflow as tf
+from libs import *
 
 def compute_area(top_left,bot_right):
 
